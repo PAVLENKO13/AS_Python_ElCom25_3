@@ -10,6 +10,8 @@ https://github.com/hilleri123/AS_Python/blob/master/1lab/task.md
 
 
 def main():
+    print("hello world")
+    
     raise NotImplementedError(
         "Реализуйте лабораторную 1 своего варианта (поле variant в student.json)"
     )
